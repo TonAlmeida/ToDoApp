@@ -1,0 +1,12 @@
+ToDoApp criation
+-criation of the database;
+-criation of the model classes;
+-criation of the connection whit the database;
+-criation of the control classes;
+-criation of the grafic interface;
+	-criation of the main screen;
+	-criation of the project register screen;
+	-criation of the tesk register screen;
+-implamentation of the events;
+-final adjustments;
+-applicatin test;
