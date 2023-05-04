@@ -1,4 +1,4 @@
-# Project Manager App
+# Project Manager App (ToDoApp)
 
 The Project Manager App is a web application that allows you to create and manage projects and tasks related to those projects.
 Once you log in, you can create new projects and add tasks to them. You can edit and delete tasks, and also delete projects if they have no tasks
