@@ -10,7 +10,7 @@ associated with them.
 To use the Project Manager App, you must have access to the app and the database in your device.
 The app is accessible from any device including desktops, laptops, tablets, and smartphones.
 
-To start using the app, simply clone the source code and run it
+To start using the app, simply start a local mysql database, clone the source code and execute it.
 
 
 ## The Project Manager App has the following features:
